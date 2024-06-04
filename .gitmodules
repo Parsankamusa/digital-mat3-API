@@ -1,0 +1,3 @@
+[submodule "matatuapp/Frontend/frontend-app"]
+	path = matatuapp/Frontend/frontend-app
+	url = https://github.com/Parsankamusa/digital-mat3-API/tree/main
